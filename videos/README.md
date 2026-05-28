@@ -27,8 +27,8 @@ Vídeo demonstrando a execução prática do sistema em ambiente Google Colab, e
 ## Links
 
 Vídeo de apresentação:
-[INSERIR LINK]
+https://youtu.be/YDxYaPa2ABU
 
 Vídeo de aplicação:
-[INSERIR LINK]
+https://youtu.be/Tp7L6bIurV0
 
